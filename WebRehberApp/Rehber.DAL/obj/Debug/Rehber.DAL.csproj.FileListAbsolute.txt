@@ -1,0 +1,10 @@
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\bin\Debug\Rehber.DAL.dll.config
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\bin\Debug\Rehber.DAL.dll
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\bin\Debug\Rehber.DAL.pdb
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\obj\Debug\Rehber.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\obj\Debug\Rehber.DAL.dll
+C:\Users\Hacı\Desktop\WebRehberApp\Rehber.DAL\obj\Debug\Rehber.DAL.pdb

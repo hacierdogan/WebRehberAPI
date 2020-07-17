@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rehber.DAL", "Rehber.DAL\Rehber.DAL.csproj", "{FFC33F11-D655-467D-8448-893B3939258A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rehber.API", "Rehber.API\Rehber.API.csproj", "{475F9AC3-3C37-4466-BE49-CE390FFE2359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC33F11-D655-467D-8448-893B3939258A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC33F11-D655-467D-8448-893B3939258A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC33F11-D655-467D-8448-893B3939258A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC33F11-D655-467D-8448-893B3939258A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475F9AC3-3C37-4466-BE49-CE390FFE2359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475F9AC3-3C37-4466-BE49-CE390FFE2359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475F9AC3-3C37-4466-BE49-CE390FFE2359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475F9AC3-3C37-4466-BE49-CE390FFE2359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
